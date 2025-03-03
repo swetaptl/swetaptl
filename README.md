@@ -32,7 +32,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/swetaptl/swetaptl/blob/output/github-snake.svg.svg)
+![snake gif](https://github.com/swetaptl/swetaptl/blob/output/github-snake.svg)
 
 
 
