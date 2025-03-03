@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sweta Patel</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Sweta+Patel;"/>
+</h1>
+    
 <h3 align="center">I’m thrilled to have you here! I’m a detail-oriented and results-driven Data Analyst with over a decade of experience in Finance, Statistics, and Commerce</h3>
+
+<img align="right" alt="coding" width="200" src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif">
+
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/sweta21](https://www.datascienceportfol.io/sweta21)
 
