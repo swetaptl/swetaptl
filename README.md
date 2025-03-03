@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋I’m thrilled to have you here! I’m a detail-oriented and results-driven Data Analyst with over a decade of experience in Finance, Statistics, and Commerce
 
 <!--
 **swetaptl/swetaptl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
