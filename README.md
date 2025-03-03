@@ -7,9 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/spd-03b8771a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spd-03b8771a6/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sweta2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sweta2410" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@swetapdd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@swetapdd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/spd-03b8771a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spd-03b8771a6/" height="30" width="40" /></a>
+<a href="https://kaggle.com/sweta2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sweta2410" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
