@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Sweta+Patel;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Sweta+Patel;&color=00FF00"/>
 </h1>
     
 <h3 align="center">I’m thrilled to have you here! I’m a detail-oriented and results-driven Data Analyst with over a decade of experience in Finance, Statistics, and Commerce</h3>
