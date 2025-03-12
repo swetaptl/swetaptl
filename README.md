@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+!+👋+I'm+Sweta+Patel;&color=00FF00"/>
 </h1>
     
-<h3 align="center">I’m thrilled to have you here! I’m a detail-oriented and results-driven Data Scientist with over a decade of experience in Finance, Statistics, and Commerce</h3>
+<h3 align="center">I’m thrilled to have you here! I’m a detail-oriented Certified Data Scientist with over a decade of experience in Finance, Statistics, and Commerce</h3>
 
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif">
 
