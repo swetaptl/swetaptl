@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Portfolio & Contact
-- 📂 **Portfolio:** [Data Science Portfolio](https://www.datascienceportfol.io/sweta21)
+- 📂 **Portfolio:** [Data Science Portfolio](https://www.datascienceportfol.io/swetapatel2410)
 - 📧 **Email:** swetapatel2410@gmail.com
 
 ---
